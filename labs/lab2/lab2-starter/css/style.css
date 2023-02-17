@@ -1,0 +1,87 @@
+
+head {
+    <link href="https://fonts.googleapis.com/css?family=Karla&display=swap" rel="stylesheet">
+}
+
+body {
+    font-family: Karla, sans-serif;
+    color: #484848;
+    margin: 0;
+    paddiing: 0;
+}
+
+header {
+    background-color: #FF5A5F;
+    height: 80px;
+}
+
+
+#logo {
+    height: 80px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding-inline-start: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+nav {
+    display: inline-block;
+    float: right;
+}
+nav li {
+    display: inline-block;
+    color: white;
+    size: 18px;
+    cursor: pointer;
+    margin-left: 40px;
+    line-height: 80px;
+}
+
+nav a{
+    color: white; 
+    size: 18px;
+    text-decoration: none;
+    cursor: pointer;
+    /* nav:hover {
+        text-decoration: underline;
+    } */
+        /* WHATTTTT 
+        need to make a new block of text*/
+}
+
+nav a:hover {
+    text-decoration: underline;
+  }
+
+.content {
+    width: 600px;
+    margin: auto;
+}
+section {
+    padding: 15px;
+    border: 2px solid #cccccc;  
+    margin-bottom: 15px;
+}
+
+section img {
+    width: 565px;
+}
+
+
+
+h1 {
+    font-size: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+h2 {
+    font-size: 20px;
+}
+section p {
+    font-size: 14px;
+}
+
+
