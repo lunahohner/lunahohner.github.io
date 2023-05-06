@@ -95,7 +95,7 @@ body{
     text-align: center;
     margin-left: -230px;
     margin-top: -22px;
-    opacity: 10%;
+    opacity: 0%;
 }
 
 .pink:hover{
@@ -124,7 +124,7 @@ body{
     text-align: center;
     margin-top: -652px;
     margin-left: 210px;
-    opacity: 10%;
+    opacity: 0%;
 }
 
 .green:hover{
@@ -152,7 +152,7 @@ body{
     text-align: center;
     margin-top: -328px;
     margin-left: -380px;
-    opacity: 10%;
+    opacity: 0%;
 }
 
 .yellow:hover{
