@@ -1,0 +1,185 @@
+
+
+/*  */
+
+body{
+    margin: 0;
+}
+
+.reload{
+    text-align: right;
+    padding: 10px;
+    transform-origin: right center;
+}
+
+.reload:hover{
+    transform: scale(1.1);   
+}
+
+.info{
+    padding: 10px;
+}
+
+.info:hover{
+    transform: scale(1.1);   
+}
+
+.info-text{
+    color:#9393E9;
+    width: 380px;
+    text-align: left;
+    padding-left: 50%;
+    padding-right: 50%;
+
+
+}
+
+.text{
+    text-align: center;
+    color:#9393E9;
+    width: 380px;
+
+}
+
+
+.top-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+;}
+
+
+/* home page */
+
+.text{
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  color: #9393E9;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-top: 50px;
+  position: relative;
+}
+.text{
+    border-radius: 50%;
+    text-align: center;
+    padding-top: -400px;
+}
+ 
+
+/* beach ball stuff */
+
+
+#all{
+    position: center;
+    width: 380px;
+    height: 200px;
+    padding-top: 50px;
+}
+
+
+
+.ball{
+    text-align: center;
+    position: relative;
+}
+
+
+
+
+
+
+
+/* pink page */
+.pink{
+    text-align: center;
+    margin-left: -230px;
+    margin-top: -22px;
+    opacity: 10%;
+}
+
+.pink:hover{
+    opacity: 99%;
+}
+
+
+.pink-back{
+    background-color: #E993BE;
+    height: 100vh;
+}
+
+.pink-spotify{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: -470px;
+    position: relative;
+}
+
+
+
+/* green page */
+
+
+.green{
+    text-align: center;
+    margin-top: -652px;
+    margin-left: 210px;
+    opacity: 10%;
+}
+
+.green:hover{
+    opacity: 99%;
+}
+
+.green-back{
+    background-color: #93E9BE;
+    height: 100vh;
+}
+
+.green-spotify{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: -470px;
+    position: relative;
+}
+
+
+/* yellow page */
+
+
+
+.yellow {
+    text-align: center;
+    margin-top: -328px;
+    margin-left: -380px;
+    opacity: 10%;
+}
+
+.yellow:hover{
+    opacity: 99%;
+}
+
+
+.yellow-back{
+    background-color: #FED678;
+    height: 100vh;
+}
+
+.yellow-spotify{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: -470px;
+    position: relative;
+}
+
+/*
+
+.click{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: black;
+  
+}
+
+ clicking */
